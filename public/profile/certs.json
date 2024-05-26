@@ -1,0 +1,106 @@
+{
+    "certs" : [
+        {
+            "image" : "images/certs/gate.jpg",
+            "title": "GATE CSE '24",
+            "bodyText": "Qualified GATE CSE 2024 with a score of 529 and AIR 4444.",
+            "links": [
+                {
+                    "text": "Score Card",
+                    "href": "https://documentshunter.s3.ap-south-1.amazonaws.com/Gate+Score+Card.pdf"
+                }
+            ],
+            "tags" : [
+                "GATE",
+                "Competitive Exams",
+                "Qualified"
+            ]
+        },
+        {
+            "image" : "images/certs/cuet.png",
+            "title": "CUET PG '24",
+            "bodyText": "Qualified papers of DS-AI and CS conducted by CUET PG 2024 (A NTA organised Exam) ",
+            "links": [
+                {
+                    "text": "Score Card",
+                    "href": "https://documentshunter.s3.ap-south-1.amazonaws.com/CUET+PG+2024.pdf"
+                }
+            ],
+            "tags" : [
+                "CUET",
+                "Competitive Exams",
+                "NTA"
+            ]
+        },
+        {
+            "image" : "images/certs/vit.png",
+            "title": "DGPA Rankers Achievement",
+            "bodyText": "Qualified papers of DS-AI and CS conducted by CUET PG 2024 (A NTA organised Exam) ",
+            "links": [
+                {
+                    "text": "Certificate",
+                    "href": "https://everify.vit.ac.in/validate/univ/services/0c8c93599c8ee45c9d692f9640e47add48d2dc35170ba6ca169d5bcb9d9288c61f3f6b9d8b2cb9678c3190faa651ccec"
+                }
+            ],
+            "tags" : [
+                "VIT",
+                "Ranker",
+                "Medalist"
+            ]
+        },
+        {
+            "image" : "images/certs/mlcoursera.jpg",
+            "title": "Machine Learning with Python - IBM Coursera Network",
+            "bodyText": "Qualified papers of DS-AI and CS conducted by CUET PG 2024 (A NTA organised Exam) ",
+            "links": [
+                {
+                    "text": "Certificate",
+                    "href": "https://www.coursera.org/account/accomplishments/certificate/8BNJQ75FU6PP"
+                }
+            ],
+            "tags" : [
+                "ML",
+                "AI",
+                "Coursera",
+                "Certified",
+                "IBM"
+            ]
+        },
+        {
+            "image" : "images/certs/awscousera.jpg",
+            "title": "Amazon S3 Basics - Coursera",
+            "bodyText": "Introductory course on AWS S3 by Coursera ",
+            "links": [
+                {
+                    "text": "Certificate",
+                    "href": "https://coursera.org/share/19989280fc3eb0f1580441c7fd4e6477"
+                }
+            ],
+            "tags" : [
+                "AWS",
+                "S3",
+                "Coursera",
+                "Certified",
+                "Course Network"
+            ]
+        },
+        {
+            "image" : "images/certs/j2ee.jpg",
+            "title": "Major Project on Implementation of Movie Ticket Booking System in J2EE.",
+            "bodyText": "J2EE Certified for Implementing BCA Major Project by Academy of Skill Developement.",
+            "links": [
+                {
+                    "text": "Certificate",
+                    "href": "https://drive.google.com/file/d/1mYdd-JBqjJkqSxiEBgjYxk37tbUiLREt/view"
+                }
+            ],
+            "tags" : [
+                "J2EE",
+                "Java",
+                "Major Project",
+                "Certified",
+                "Course Project"
+            ]
+        }
+    ]
+}

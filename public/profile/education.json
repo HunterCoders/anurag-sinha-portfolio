@@ -1,0 +1,40 @@
+{
+    "education":[
+        {
+            "title": "March 2017 - March 2018",
+            "cardTitle": "ICSE X",
+            "cardSubtitle":"De Nobili School, FRI, Jharkhand",
+            "cardDetailedText": "% - 94",
+            "icon" : {
+                "src": "images/education/dns.png"
+            }
+        },
+        {
+            "title": "March 2019 - March 2020",
+            "cardTitle": "ICSE XII",
+            "cardSubtitle":"De Nobili School, FRI, Jharkhand",
+            "cardDetailedText": "% - 93",
+            "icon" : {
+                "src": "images/education/dns.png"
+            }
+        },
+        {
+            "title": "August 2020 - July 2023",
+            "cardTitle": "Bachelor's of Computer Applications",
+            "cardSubtitle":"Techno Main Salt Lake, MAKAUT, West Bengal",
+            "cardDetailedText": "CGPA - 9.5",
+            "icon" : {
+                "src": "images/education/techno.png"
+            }
+        },
+        {
+            "title": "August 2023 - July 2025",
+            "cardTitle": "Masters of Computer Applications",
+            "cardSubtitle":"Vellore Institute of Technology, Vellore",
+            "cardDetailedText": "CGPA - 9.58",
+            "icon" : {
+                "src": "images/education/vit.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Achievements",
+            "href": "/achievs"
+        },
+        {
+            "title": "Resume",
+            "href": "https://documentshunter.s3.ap-south-1.amazonaws.com/MCA+CV+21-05-24.pdf",
+            "type": "link"
+        }
+    ]
+
+}
