@@ -1,0 +1,100 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/petcareportal.jpg",
+            "title": "Pet Care Portal",
+            "bodyText": "A MERN stack based project for pet care use case that allows users to book doctors and supplies for their pets hosted on AWS EC2 coupled with MongoDB Atlas.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HunterCoders/pet-care-portal.git"
+                },
+                {
+                    "text": "AWS",
+                    "href": "http://13.233.1.190:3001/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node",
+                "JavaScript",
+                "MongoDB Atlas",
+                "CSS",
+                "AWS"
+            ]
+        },
+        {
+            "image" : "images/projects/Logo.png",
+            "title": "Movie Ticket Booking System ",
+            "bodyText": "A web-based System developed using Java Servlets, JSP, Oracle, and Web technologies for user-friendly online ticket booking.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HunterCoders/Movie-Ticket-Booking-Systen-using-JSP-Servlet-and-HTML"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JS",
+                "MySQL",
+                "Servlets",
+                "JSP",
+                "Java"
+            ]
+        },
+        {
+            "image" : "images/projects/vehicle.png",
+            "title": "RF Technology for Dynamic Vehicle Speed Detection",
+            "bodyText": "Research-based on IOT technology to implement vehicular laws by detecting law breakers using a novel RFID-based mechanism sampling data directly from a car’s OBD interface published as a journal article.",
+            "links": [
+                {
+                    "text": "Journal",
+                    "href": "https://harbinengineeringjournal.com/index.php/journal/article/view/2704/1738"
+                }
+            ],
+            "tags" : [
+                "IOT",
+                "RFID",
+                "Research"
+            ]
+        },
+        {
+            "title": "Prostate Cancer Patient Classification using ML Algorithms",
+            "bodyText": "A comparative study of ML algorithms that are used to classify cancerous patients using models like Random Forest, SVM, and KNN.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HunterCoders/Prostate-Cancer-Detection-Random-Forest"
+                }
+            ],
+            "tags" : [
+                "ML",
+                "AI",
+                "SVM",
+                "KNN",
+                "Random Forest",
+                "NumPy",
+                "Pandas",
+                "Research"
+            ]
+        },
+        {
+            "title": "Audio/Video Transcriber and Summarizer",
+            "bodyText": "A python-based data transcriber that uses OpenAI’s Whisper API to transcribe the input file and a Natural Language Toolkit to summarise it.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HunterCoders/audio-video-transcribe-summarise-whisperai/tree/main"
+                }
+            ],
+            "tags" : [
+                "NTLK",
+                "OpenAI Whisper",
+                "Pyhton",
+                "API",
+                "ML"
+            ]
+        }
+    ]
+}
