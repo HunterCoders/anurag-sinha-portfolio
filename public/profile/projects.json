@@ -24,6 +24,33 @@
             ]
         },
         {
+            "image" : "images/projects/quizzie.png",
+            "title": "Quizzie - Quiz Portal",
+            "bodyText": "The educational quiz platform uses React.js (Vite) for frontend, Node.js with Express for backend, MongoDB Atlas for database, JWT Token for authentication, Bcrypt for encryption, Tailwind CSS for styling, and is deployed on AWS EC2.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HunterCoders/pet-care-portal"
+                },
+                {
+                    "text": "AWS",
+                    "href": "http://13.127.231.150:5173/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node",
+                "JavaScript",
+                "MongoDB Atlas",
+                "CSS",
+                "AWS",
+                "Vite",
+                "JWT",
+                "Bcrypt"
+
+            ]
+        },
+        {
             "image" : "images/projects/Logo.png",
             "title": "Movie Ticket Booking System ",
             "bodyText": "A web-based System developed using Java Servlets, JSP, Oracle, and Web technologies for user-friendly online ticket booking.",
